@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Online Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "Online",
+    "password"Online Bot: "",
+    "type": "Online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Iron_Land-WSSq.aternos.me",
+    "port"19292: ,
+    "version"1.12.1: "",
     "try-creative": false
   },
   "position": {
